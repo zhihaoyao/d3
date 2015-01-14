@@ -1,0 +1,471 @@
+source,target,value,group
+Adolfo Correa,Population Studies,74272,24
+Adolfo Correa,Population Studies,71268,24
+Alan Jones,Medical Care,565251,16
+Alan Jones,Medical Care,380647,16
+Alan Jones,Medical Care,99588,16
+Alan Jones,Medical Care,80060,16
+Alan Jones,Medical Care,68093,16
+Alan Jones,Other,42788,23
+Alan Jones,Emergency Medicine,8000,9
+Alan Jones,Emergency Medicine,7000,9
+Alejandro Chade,Translational Medicine,80000,33
+Alexander Auchus,Degenerative Brain Disease,4000,6
+Alexander Auchus,"Genetics, Molecular, Cellular",4000,10
+Alexander Auchus,Neuroscience,4000,20
+Alexandra Brown,Other,15000,23
+Amol Janorkar,Materials Science,114375,15
+Amol Janorkar,Regenerative Medicine & Wound Healing,114375,26
+Amol Janorkar,Materials Science,12636,15
+Ana Palei,Cardiovascular,50092,3
+Anait Levenson,Cancer,560625,2
+Andres Viana,Mental Health,223334,17
+Andrew Freeman,Other,1500,23
+Andrew Smith,Musculoskeletal,3000,19
+Andrew Smith,Musculoskeletal,3000,19
+Andrew Wilhelm,Other,913230,23
+Andrew Wilhelm,Other,37778,23
+Angela Subauste,"Obesity, Nutritional, Metabolic, Endocrine",181564,21
+Angela Subauste,Translational Medicine,181564,33
+Angela Subauste,Women's Health,181564,34
+Anne Norwood,Children's Health,50000,4
+Anne Norwood,Education,50000,8
+Anne Norwood,Health Disparities,50000,12
+Anne Norwood,"Obesity, Nutritional, Metabolic, Endocrine",50000,21
+Anne Yates,Children's Health,48412,4
+Anne Yates,Medical Care,48412,16
+Anne Yates,Respiratory,48412,28
+Azeddine Atfi,Other,306774,23
+Barbara Alexander,Cardiovascular,46624,3
+Benjamin Dillard,Other,12500,23
+Bettina Beech,"Obesity, Nutritional, Metabolic, Endocrine",56849,21
+Bettina Beech,Public Health,56849,25
+Beverly Windham,"Obesity, Nutritional, Metabolic, Endocrine",642798,21
+Binford Nash,Children's Health,484083,4
+Binford Nash,Health Disparities,484083,12
+Binford Nash,Microbiology/Infectious Diseases,484083,18
+Binford Nash,Women's Health,484083,34
+Birdie Lamarca,Other,301486,23
+Birdie Lamarca,Women's Health,30000,34
+Brian Akerley,Microbiology/Infectious Diseases,394635,18
+Brian Borg,Digestive,41029.76,7
+Brian Borg,Digestive,15100,7
+Bruce Brackin,Other,121043,23
+Carolyn Bigelow,Hematology,5000,13
+Chad Feldman,"Obesity, Nutritional, Metabolic, Endocrine",831986,21
+Chad Feldman,Public Health,831986,25
+Chameka Robinson,Cancer,1000,2
+Chameka Robinson,"Obesity, Nutritional, Metabolic, Endocrine",1000,21
+Chameka Robinson,Women's Health,1000,34
+Charles Gaymes,Other,7000,23
+Chindo Hicks,Cancer,250000,2
+Courtney Bagge,Mental Health,2010650,17
+Courtney Bagge,Other,165105,23
+Craig Stockmeier,Mental Health,1103178,17
+Craig Stockmeier,Neuroscience,1103178,20
+Craig Stockmeier,Substance Abuse,1103178,31
+Craig Stockmeier,Cardiovascular,128534,3
+Craig Stockmeier,Geriatrics,128534,11
+Craig Stockmeier,Mental Health,128534,17
+Craig Stockmeier,Neuroscience,128534,20
+Damian Romero,Cardiovascular,77000,3
+Damian Romero,"Genetics, Molecular, Cellular",77000,10
+Damian Romero,"Obesity, Nutritional, Metabolic, Endocrine",77000,21
+David Elkin,Other,5000000,23
+David Robinson,"Genetics, Molecular, Cellular",205340,10
+David Robinson,Microbiology/Infectious Diseases,205340,18
+David Robinson,Population Studies,205340,24
+David Robinson,Other,15180,23
+Deborah Konkle-Parker,Cancer,584585,2
+Deborah Konkle-Parker,"Genetics, Molecular, Cellular",584585,10
+Deborah Konkle-Parker,Health Disparities,584585,12
+Deborah Konkle-Parker,Mental Health,584585,17
+Deborah Konkle-Parker,Microbiology/Infectious Diseases,584585,18
+Deborah Konkle-Parker,"Obesity, Nutritional, Metabolic, Endocrine",584585,21
+Deborah Konkle-Parker,Rheumatology/Immunology,584585,29
+Deborah Konkle-Parker,Women's Health,584585,34
+Deborah Konkle-Parker,Cancer,499001,2
+Deborah Konkle-Parker,"Genetics, Molecular, Cellular",499001,10
+Deborah Konkle-Parker,Health Disparities,499001,12
+Deborah Konkle-Parker,Mental Health,499001,17
+Deborah Konkle-Parker,Microbiology/Infectious Diseases,499001,18
+Deborah Konkle-Parker,"Obesity, Nutritional, Metabolic, Endocrine",499001,21
+Deborah Konkle-Parker,Rheumatology/Immunology,499001,29
+Deborah Konkle-Parker,Women's Health,499001,34
+Deborah Konkle-Parker,Education,270971,8
+Deborah Konkle-Parker,Microbiology/Infectious Diseases,270971,18
+Deborah Konkle-Parker,Education,15345,8
+Deborah Konkle-Parker,Microbiology/Infectious Diseases,15345,18
+Deborah Konkle-Parker,Microbiology/Infectious Diseases,9000,18
+Deborah Konkle-Parker,Education,6859,8
+Deborah Konkle-Parker,Microbiology/Infectious Diseases,6859,18
+Deborah Minor,Population Studies,22875,24
+Demarc Hickson,Public Health,68000,25
+Diane Lebesgue,Other,142334,23
+Donna Rowlett,Substance Abuse,343125,31
+Donna Rowlett,Substance Abuse,264225,31
+Donna Rowlett,Substance Abuse,11522.11,31
+Elizabeth Foster,Other,98193.32,23
+Eric George,Cardiovascular,248813,3
+Erin Taylor,Microbiology/Infectious Diseases,54060,18
+Ernest Quin,Cardiovascular,5008.25,3
+Ervin Fox,Other,665430,23
+Ervin Fox,Other,59149,23
+Fazlay Faruque,Allergy,42589,1
+Fazlay Faruque,Public Health,42589,25
+Fazlay Faruque,Scholarships/Traineeships,42589,30
+Fazlay Faruque,Public Health,9829,25
+Frances Megason,Hematology,56193,13
+Fredrick Barr,Other,60000,23
+Gail Megason,Cancer,286690,2
+Gene Bidwell,Other,336375,23
+Gene Bidwell,Other,77000,23
+Gene Bidwell,Other,37375,23
+George Russell,Other,10554,23
+George Russell,Other,10212,23
+Glen Graves,Children's Health,18263,4
+Glen Graves,Health Disparities,18263,12
+Glen Graves,Reproductive,18263,27
+Glen Graves,Women's Health,18263,34
+Hannah Gay,Children's Health,489902.83,4
+Hannah Gay,Women's Health,489902.83,34
+Harold Henderson,Microbiology/Infectious Diseases,463125,18
+Harold Henderson,Microbiology/Infectious Diseases,418250,18
+Harold Henderson,Other,310519,23
+Harold Henderson,Microbiology/Infectious Diseases,256279.68,18
+Harold Henderson,Other,236700,23
+Harold Henderson,Other,27058,23
+Harold Livingston,Medical Care,9889,16
+Herman Taylor,Cardiovascular,2273113,3
+Herman Taylor,Cardiovascular,1881488,3
+Herman Taylor,Cardiovascular,1770197,3
+Herman Taylor,Cardiovascular,1384307,3
+Herman Taylor,Cardiovascular,90805,3
+Herman Taylor,Health Disparities,90805,12
+Herman Taylor,Population Studies,90805,24
+Hong Zhu,Neuroscience,373750,20
+Hong Zhu,Translational Medicine,373750,33
+James Keeton,Other,10000000,23
+James Rowlett,Substance Abuse,457292,31
+James Rowlett,Other,435384,23
+James Rowlett,Substance Abuse,422273,31
+James Rowlett,Substance Abuse,317425,31
+James Shwayder,Other,100000,23
+James Shwayder,Other,5000,23
+James Thigpen,Cancer,757784,2
+James Thigpen,Cancer,123895,2
+James Wilson,Cardiovascular,145253,3
+James Wilson,"Genetics, Molecular, Cellular",145253,10
+James Wilson,Population Studies,145253,24
+James Wilson,Other,71968,23
+James Wilson,"Genetics, Molecular, Cellular",58000,10
+James Wilson,Health Disparities,58000,12
+James Wilson,"Obesity, Nutritional, Metabolic, Endocrine",58000,21
+James Wilson,Population Studies,58000,24
+James Wilson,Other,37830,23
+James Wilson,Cardiovascular,28569,3
+James Wilson,"Genetics, Molecular, Cellular",28569,10
+James Wilson,Health Disparities,28569,12
+James Wilson,Kidney Disease,28569,14
+James Wilson,"Obesity, Nutritional, Metabolic, Endocrine",28569,21
+James Wilson,Population Studies,28569,24
+James Wilson,Respiratory,28569,28
+James Wilson,Women's Health,28569,34
+Jan Williams,Cardiovascular,77000,3
+Jan Williams,Kidney Disease,77000,14
+Jane Reckelhoff,Cardiovascular,336375,3
+Jane Reckelhoff,Kidney Disease,336375,14
+Jane Reckelhoff,"Obesity, Nutritional, Metabolic, Endocrine",336375,21
+Jane Reckelhoff,Women's Health,336375,34
+Jane Reckelhoff,Cardiovascular,29900,3
+Jane Reckelhoff,Kidney Disease,29900,14
+Jane Reckelhoff,"Obesity, Nutritional, Metabolic, Endocrine",29900,21
+Jane Reckelhoff,Women's Health,29900,34
+Jennifer Sasser,Cardiovascular,126832,3
+Jennifer Sasser,Kidney Disease,126832,14
+Jennifer Stephen,Children's Health,1000,4
+Jia Long Zhuo,Cardiovascular,296361,3
+Jia Long Zhuo,Kidney Disease,296361,14
+Jian-Xiong Chen,Cardiovascular,331909,3
+Jian-Xiong Chen,Cardiovascular,29503,3
+Joanna Coolen,Other,134355,23
+Joey Granger,Cardiovascular,386603,3
+Joey Granger,Kidney Disease,386603,14
+Joey Granger,Cardiovascular,336375,3
+Joey Granger,Kidney Disease,336375,14
+Joey Granger,Women's Health,336375,34
+Joey Granger,Cardiovascular,29900,3
+Joey Granger,Kidney Disease,29900,14
+Joey Granger,Women's Health,29900,34
+John Correia,Rheumatology/Immunology,157200,29
+John Hall,Cardiovascular,2283615,3
+John Hall,Cardiovascular,2278362,3
+John Hall,Cardiovascular,80468.48,3
+John Meade,Microbiology/Infectious Diseases,15787,18
+John Meade,Microbiology/Infectious Diseases,9407,18
+John Mitchell,Other,400000,23
+John Spurzem,Respiratory,28400,28
+John Wilson,Other,14700,23
+Jonathan Wilson,Emergency Medicine,969600,9
+Jonathan Wilson,Emergency Medicine,201724,9
+Jonathan Wilson,Medical Care,201724,16
+Jonathan Wilson,Medical Care,154444,16
+Jonathan Wilson,Other,72000,23
+Jonathan Wilson,Other,20400,23
+Joseph Majure,Children's Health,44990,4
+Joseph Majure,"Genetics, Molecular, Cellular",10207.72,10
+Jung Ryu,Cancer,87616,2
+Junie Warrington Tate,Cardiovascular,45364,3
+Jussara Do Carmo,"Obesity, Nutritional, Metabolic, Endocrine",77000,21
+Karen Crews,Other,188864,23
+Keisa Mathis,Cardiovascular,77000,3
+Keisa Mathis,Rheumatology/Immunology,77000,29
+Keisa Mathis,Women's Health,77000,34
+Keli Xu,Cancer,173474,2
+Kim Gratz,Mental Health,146957,17
+Kim Gratz,Mental Health,142160,17
+Kim Gratz,Mental Health,26989,17
+Kimberly Hoover,Other,344725,23
+Kimberly Rowzee,Other,248624.25,23
+Kounosuke Watabe,Cancer,478991,2
+Kristi Henderson,Health Disparities,461405,12
+Kristi Henderson,Other,252000,23
+Kristi Henderson,Other,200000,23
+Kristi Henderson,Health Disparities,35000,12
+Kristine Deleon Pennell,Cardiovascular,46796,3
+Kristine Deleon Pennell,Oral Health,46796,22
+Kristine Deleon Pennell,Scholarships/Traineeships,46796,30
+L Buttross,Children's Health,66500,4
+L Buttross,Children's Health,66500,4
+L Buttross,Mental Health,66500,17
+L Buttross,Mental Health,66500,17
+L Buttross,Children's Health,45000,4
+Larry Martin,Other,81578.5,23
+Larry Mcdaniel,Other,61000,23
+Laura Beauchamps,Other,118637,23
+Leandro Mena,Microbiology/Infectious Diseases,212685.84,18
+Leandro Mena,Health Disparities,202533,12
+Leandro Mena,Health Disparities,50000,12
+Leandro Mena,Other,35940,23
+Leandro Mena,Microbiology/Infectious Diseases,34234,18
+Leandro Mena,Other,29793,23
+Licy Yanes Cardozo,"Obesity, Nutritional, Metabolic, Endocrine",7500,21
+Lir-Wan Fan,Neuroscience,323762,20
+Lir-Wan Fan,Neuroscience,280703,20
+Lisandra De Castro Bras,Cardiovascular,77000,3
+Lou Woodward,Other,2221520,23
+Lucio Miele,Other,29053,23
+Luis Martinez,Cancer,300907,2
+Lusha Xiang,Cardiovascular,77000,3
+Mallikarjuna Pabbidi,Cardiovascular,77000,3
+Mallikarjuna Pabbidi,"Genetics, Molecular, Cellular",77000,10
+Mario Sims,Cardiovascular,244736,3
+Mario Sims,Health Disparities,244736,12
+Mario Sims,"Obesity, Nutritional, Metabolic, Endocrine",244736,21
+Mario Sims,Population Studies,244736,24
+Mario Sims,Translational Medicine,244736,33
+Mary Fouquier,Medical Care,1000,16
+Mary Jane Burton,Other,54000,23
+Mary Smith,Hematology,518340,13
+Mary Smith,Hematology,25000,13
+Mary Smith,Hematology,15000,13
+Mary Stewart,Other,10000,23
+Mary Taylor,Children's Health,61880,4
+Maureen Wirschell,Other,69595,23
+Maureen Wirschell,Other,69462,23
+Merry Lindsey,Cardiovascular,1315619,3
+Merry Lindsey,Computational Sciences,1315619,5
+Merry Lindsey,Translational Medicine,1315619,33
+Merry Lindsey,Cardiovascular,378749,3
+Merry Lindsey,Computational Sciences,378749,5
+Merry Lindsey,Regenerative Medicine & Wound Healing,378749,26
+Merry Lindsey,Translational Medicine,378749,33
+Merry Lindsey,Cardiovascular,134539.89,3
+Merry Lindsey,Computational Sciences,134539.89,5
+Merry Lindsey,Regenerative Medicine & Wound Healing,134539.89,26
+Merry Lindsey,Translational Medicine,134539.89,33
+Merry Lindsey,Other,50376,23
+Merry Lindsey,Cardiovascular,17278,3
+Merry Lindsey,Computational Sciences,17278,5
+Merry Lindsey,Regenerative Medicine & Wound Healing,17278,26
+Merry Lindsey,Translational Medicine,17278,33
+Michael Garrett,Cardiovascular,352252,3
+Michael Garrett,"Genetics, Molecular, Cellular",352252,10
+Michael Garrett,Kidney Disease,352252,14
+Michael Garrett,Other,100000,23
+Michael Garrett,Other,100000,23
+Michael Jones,Other,49944,23
+Michael Jones,Other,31303,23
+Michael Lehman,Reproductive,508556,27
+Michael Lehman,Reproductive,482288,27
+Michael Lehman,Other,192255,23
+Michael Lehman,Other,144843,23
+Michael Nowicki,"Genetics, Molecular, Cellular",20000,10
+Michael Puskarich,Emergency Medicine,50000,9
+Michael Puskarich,"Obesity, Nutritional, Metabolic, Endocrine",50000,21
+Michael Puskarich,Translational Medicine,50000,33
+Michael Roach,Materials Science,627750,15
+Michael Roach,Materials Science,32307,15
+Michael Roach,Other,23726,23
+Michael Roach,Materials Science,20319,15
+Michael Roach,Materials Science,20319,15
+Michael Ryan,Cardiovascular,82500,3
+Michael Ryan,Kidney Disease,82500,14
+Michael Ryan,Cardiovascular,60696,3
+Michael Ryan,Education,60696,8
+Michael Ryan,Health Disparities,60696,12
+Michael Ryan,Kidney Disease,60696,14
+Michael Ryan,Scholarships/Traineeships,60696,30
+Michael Ryan,Cardiovascular,25180,3
+Michael Ryan,Kidney Disease,25180,14
+Michael Todaro,Other,481480,23
+Michelle Owens,Medical Care,30950,16
+Michelle Owens,Medical Care,22425,16
+Michelle Tucci,Degenerative Brain Disease,3000,6
+Natale Sheehan,Cancer,273991.2,2
+Naznin Dixit,Children's Health,43225,4
+Neeta Mehta,Other,246745,23
+Norma Ojeda,Children's Health,100000,4
+Norma Ojeda,Kidney Disease,100000,14
+Owen Evans,Education,345736,8
+Owen Evans,Children's Health,51870,4
+Owen Evans,Education,11581,8
+Padmanabhan Iyer,Cardiovascular,45364,3
+Padmanabhan Iyer,Computational Sciences,45364,5
+Padmanabhan Iyer,Regenerative Medicine & Wound Healing,45364,26
+Padmanabhan Iyer,Translational Medicine,45364,33
+Parminder Vig,Neuroscience,150000,20
+Parminder Vig,Neuroscience,55601,20
+Peter Hosick,"Genetics, Molecular, Cellular",53446,10
+Philip Rhodes,Medical Care,146965,16
+Philip Rhodes,Medical Care,146965,16
+Phillip Grady,Other,9500,23
+Phillip Grady,Other,8818,23
+Pia Chatterjee Kirk,Oral Health,5000,22
+Radhika Pochampally,Other,1,23
+Ralph Didlake,Other,6650,23
+Ralph Didlake,Other,6050,23
+Ralph Didlake,Other,167,23
+Rathel Nolan,Microbiology/Infectious Diseases,84813,18
+Rathel Nolan,Microbiology/Infectious Diseases,64365,18
+Rathel Nolan,Cardiovascular,40387,3
+Rathi Iyer,"Genetics, Molecular, Cellular",142422,10
+Rathi Iyer,Hematology,37730,13
+Richard Roman,Other,405973,23
+Richard Roman,Cardiovascular,113222,3
+Richard Roman,Cardiovascular,10455,3
+Robert Cox,Public Health,250000,25
+Robert Cox,Substance Abuse,250000,31
+Robert Cox,Toxicology,250000,32
+Robert Cox,Other,27123.72,23
+Robert Cox,Other,27123.72,23
+Robert Cox,Medical Care,1439,16
+Robert Hester,Computational Sciences,396342,5
+Robert Hester,Computational Sciences,351764,5
+Robert Hester,Cardiovascular,50000,3
+Robert Hester,Cardiovascular,46624,3
+Robert Hester / Peter Mittwede,"Obesity, Nutritional, Metabolic, Endocrine",26000,21
+Robert Mcguire,Musculoskeletal,28096,19
+Robert Mcguire,Neuroscience,28096,20
+Robin Rockhold,Education,10000,8
+Rodrigo Maranon,Other,50092,23
+Ruisheng Liu,Cardiovascular,331688,3
+Ruisheng Liu,Cardiovascular,331688,3
+Ruisheng Liu,Kidney Disease,248766,14
+Scott Coffey,Mental Health,5000,17
+Scott Coffey,Substance Abuse,5000,31
+Sean Didion,Cardiovascular,366275,3
+Shannon Moore,Education,193617,8
+Shannon Moore,"Obesity, Nutritional, Metabolic, Endocrine",193617,21
+Shou Tang,Digestive,2000,7
+Siddhant Mehta,Musculoskeletal,19911,19
+Siddhant Mehta,Other,5000,23
+Solomon Musani,Cardiovascular,53893,3
+Solomon Musani,"Genetics, Molecular, Cellular",53893,10
+Solomon Musani,Health Disparities,53893,12
+Solomon Musani,Population Studies,53893,24
+Solomon Musani,Cardiovascular,5907,3
+Solomon Musani,"Genetics, Molecular, Cellular",5907,10
+Solomon Musani,Health Disparities,5907,12
+Solomon Musani,Population Studies,5907,24
+Stephanie Elkins,Cancer,15750,2
+Suvankar Majumdar,"Genetics, Molecular, Cellular",25000,10
+Suvankar Majumdar,"Genetics, Molecular, Cellular",19054,10
+Suvankar Majumdar,"Genetics, Molecular, Cellular",13800,10
+Suvankar Majumdar,Hematology,9000,13
+Suvankar Majumdar,Medical Care,9000,16
+Suvankar Majumdar,Hematology,4200,13
+Suvankar Majumdar,Medical Care,4200,16
+Suzanne Miller,Other,43225,23
+Suzanne Miller,Other,43225,23
+Tandaw Samdarshi,Cardiovascular,700915,3
+Tandaw Samdarshi,Education,700915,8
+Tandaw Samdarshi,Health Disparities,700915,12
+Tandaw Samdarshi,Mental Health,700915,17
+Tandaw Samdarshi,Musculoskeletal,700915,19
+Tandaw Samdarshi,Neuroscience,700915,20
+Tandaw Samdarshi,"Obesity, Nutritional, Metabolic, Endocrine",700915,21
+Tandaw Samdarshi,Population Studies,700915,24
+Tandaw Samdarshi,Respiratory,700915,28
+Tandaw Samdarshi,Rheumatology/Immunology,700915,29
+Tandaw Samdarshi,Women's Health,700915,34
+Tandaw Samdarshi,Other,686073,23
+Thomas Eby,Other,17000,23
+Thomas Helling,Regenerative Medicine & Wound Healing,120350.49,26
+Thomas Mosley,Cardiovascular,3433942,3
+Thomas Mosley,"Genetics, Molecular, Cellular",3433942,10
+Thomas Mosley,Health Disparities,3433942,12
+Thomas Mosley,Neuroscience,3433942,20
+Thomas Mosley,Population Studies,3433942,24
+Thomas Mosley,Cardiovascular,1700714,3
+Thomas Mosley,Health Disparities,1700714,12
+Thomas Mosley,Population Studies,1700714,24
+Thomas Mosley,Cardiovascular,137146,3
+Thomas Mosley,Geriatrics,137146,11
+Thomas Mosley,Health Disparities,137146,12
+Thomas Mosley,Population Studies,137146,24
+Thomas Mosley,Other,117333,23
+Thomas Mosley,Cancer,65559,2
+Thomas Mosley,Geriatrics,65559,11
+Thomas Mosley,Health Disparities,65559,12
+Thomas Mosley,Population Studies,65559,24
+Thomas Mosley,Other,26496,23
+Thomas Mosley,Other,13129,23
+Thomas Mosley,Geriatrics,10776,11
+Thomas Mosley,Health Disparities,10776,12
+Thomas Payne,Other,827939,23
+Thomas Payne,"Genetics, Molecular, Cellular",161712,10
+Thomas Payne,Population Studies,161712,24
+Thomas Payne,Substance Abuse,161712,31
+Tibor Fulop,Cardiovascular,13025,3
+Tibor Fulop,"Genetics, Molecular, Cellular",13025,10
+Tibor Fulop,Health Disparities,13025,12
+Tibor Fulop,Kidney Disease,13025,14
+Tibor Fulop,"Obesity, Nutritional, Metabolic, Endocrine",13025,21
+Tibor Fulop,Population Studies,13025,24
+Tina Martin,Education,80000,8
+Tina Martin,Education,50000,8
+Tondre Buck,Cancer,36500,2
+Tracy Dellinger,Other,136593,23
+V.V. Vedanarayanan,Musculoskeletal,50000,19
+Victor Chinchar,Microbiology/Infectious Diseases,3000,18
+Vincent Herrin,Other,50000,23
+Vincent Herrin,Other,8000,23
+Vincent Herrin,Other,8000,23
+William Boyte,Children's Health,10000,4
+William Needham,Children's Health,25000,4
+William Pruett,Computational Sciences,14905,5
+William Woolverton,Substance Abuse,278429,31
+Wu Zhou,Neuroscience,15000,20
+Xiaoming Ou,Other,363839,23
+Xinchun Zhou,Cancer,20000,2
+Xinchun Zhou,Other,8925.92,23
+Xiu Liu,Neuroscience,216570,20
+Yan Lu,Cardiovascular,49960,3
+Yi Pang,Degenerative Brain Disease,74967.36,6
+Ying Ge,Cardiovascular,48304,3
+Yin-Yuan Mo,Other,291600,23
+Yin-Yuan Mo,Other,174960,23
+Yin-Yuan Mo,Cancer,112125,2
+Yin-Yuan Mo,Cancer,112109,2
+Zhen Wang,Kidney Disease,48340,14
